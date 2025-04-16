@@ -1,0 +1,9 @@
+{
+    "id": "sibling-linker",
+    "name": "Sibling Linker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin which finds child notes referenced in the same context, and adds hard links to their properties.",
+    "author": "Conrad Selig",
+    "isDesktopOnly": true
+}
